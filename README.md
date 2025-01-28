@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá! Sou Matheus Almeida, um entusiasta de tecnologia e apaixonado por desenvolvimento web.
 
-<!--
-**matheusAlmeida700/matheusAlmeida700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre Mim
+🔭 Atualmente trabalhando em: [Seu projeto atual]
+🌱 Aprendendo mais sobre: [Tecnologias/assuntos que está estudando, como React, Python, etc.]
+💬 Pergunte-me sobre: [áreas de especialidade ou coisas que você pode ajudar]
+✨ Curiosidade: [Um fato divertido ou interessante sobre você]
+🛠️ Habilidades
+Linguagens e Tecnologias:
 
-Here are some ideas to get you started:
+Ferramentas e Plataformas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Inclua ferramentas que usa no dia a dia]
+
+🌐 Onde Me Encontrar
+LinkedIn: Seu LinkedIn
+Portfólio: Seu Site
+Twitter: @SeuTwitter
+Email: seu.email@email.com
