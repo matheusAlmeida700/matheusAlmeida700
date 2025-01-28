@@ -1,84 +1,38 @@
-🌟 Bem-vindo ao meu Perfil no GitHub! 🌟
+👋 Bem-vindo ao Meu Perfil no GitHub
 
-Olá! 👋 Meu nome é Matheus e aqui você encontrará um pedacinho da minha jornada no mundo da tecnologia. 🌐 Seja explorando soluções web, criando designs funcionais ou contribuindo com projetos inovadores, estou sempre em busca de desafios para aprender e crescer! 🚀
+Olá! Eu sou Matheus, um desenvolvedor web em constante aprendizado. Aqui compartilho projetos que unem tecnologia e criatividade. 🚀
 
-👨‍💻 Sobre Mim
+💻 Sobre Mim
 
-💡 Desenvolvedor em constante aprendizado, atualmente no segundo ano do ensino médio.
-💻 Entusiasta da tecnologia com experiência em:
+Estudante do ensino médio com foco em desenvolvimento web
 
-Manutenção de computadores: Desktops e notebooks
+Experiência em manutenção e montagem de computadores
 
-Desenvolvimento web: Focado em UX/UI e performance
-📚 Apaixonado por explorar novas ferramentas e criar soluções práticas e modernas.
+Explorando UX/UI e performance de sites 🌐
 
-🛠️ Minhas Habilidades
+🚀 Habilidades
 
-🌐 Front-End
+Front-End: HTML, CSS/Sass, JavaScript, React
 
-🖌️ Linguagens: HTML, CSS, JavaScript, Sass
+Back-End: Node.js
 
-🎨 Design: Figma, Tailwind CSS
+Ferramentas: Git, GitHub, Figma, Netlify
 
-⚙️ Back-End
+🔥 Projetos Recentes
 
-🛠️ Node.js para APIs dinâmicas e integrações
+Landing Page: Design moderno e responsivo para uma empresa de segurança privada
 
-📋 Outras Ferramentas
+Painel de Controle: Gestão de tarefas com React e Tailwind CSS
 
-🚀 Deploy: Netlify, Vercel
+🎯 Objetivos
 
-📊 Controle de versão: Git & GitHub
+Criar projetos open-source
 
-🔧 Outras: Unity 3D, SEO, Responsive Design
+Aprofundar conhecimentos em Next.js e TypeScript
 
-🌟 Projetos que Você Vai Amar! 💖
+🌟 Vamos Conectar
 
-🌐 Landing Page - Empresa de Segurança Privada
+📧 E-mail💼 LinkedIn
 
-🔗 Veja o Projeto Completo✨ Destaques:
+Obrigado por visitar! ⭐
 
-Design moderno e focado em conversão 📈
-
-Totalmente responsivo 🌟
-
-Otimizado para SEO 🥇
-
-📊 Painel Interativo de Projetos
-
-🔗 Acesse Aqui🎉 Descrição: Uma aplicação web para gestão de tarefas com React e Tailwind CSS.
-⚡ Funcionalidades:
-
-Progresso dinâmico ⚙️
-
-Interface clean e responsiva 🌈
-
-📈 Estatísticas do GitHub
-
-
-
-🎓 O Que Estou Estudando
-
-📘 Desenvolvimento Web: Explorando frameworks como Next.js e TypeScript
-
-📝 Comunicação e Redação: Repertórios para o ENEM 🎯
-
-📜 História e Sociedade: Contexto histórico da Constituição dos EUA 🇺🇸
-
-🎯 Meus Objetivos Para 2025
-
-🏗️ Criar um portfólio completo com projetos impactantes
-
-🌍 Contribuir para iniciativas open-source focadas em acessibilidade
-
-🧑‍💻 Aprender Next.js e TypeScript
-
-💼 Desenvolver soluções SaaS para pequenas empresas
-
-🤝 Vamos Conectar?
-
-💌 E-mail: matheus.dev@example.com🌐 LinkedIn: linkedin.com/in/matheus
-
-💬 Fique à vontade para entrar em contato, colaborar em projetos ou trocar ideias. Vamos construir algo incrível juntos! 🚀
-
-✨ Obrigado por visitar meu perfil! Que tal dar uma ⭐ nos projetos que você gostar? 😉
