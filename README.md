@@ -61,9 +61,9 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-[![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:0xabdulkhaliq@gmail.com)&nbsp;
-[![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/984803810885120030)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0xabdulkhaliq)
+[![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matheusauthentic8@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-5964f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -71,4 +71,4 @@
 
 Credit: [Matheus Almeida](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
+Last Edited on: 2024/01/30
