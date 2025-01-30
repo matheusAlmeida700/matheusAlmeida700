@@ -37,7 +37,9 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![SASS](https://img.shields.io/badge/SASS%20-%23F7DF1E.svg?style=for-the-badge&logo=sass&logoColor=black)
-  ![ReactJS](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)&nbsp;
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+   ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 
 <br>
 
