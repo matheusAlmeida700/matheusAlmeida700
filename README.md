@@ -100,7 +100,7 @@ I am particularly interested in the intersection between **software engineering*
 ## 🤝 Let’s Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EC493C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusauthentic8@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A78B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-almeida-7a697a248/)
 
 ---
 
